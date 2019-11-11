@@ -9,5 +9,5 @@ module.exports = {
     "environment": process.env.NODE_ENV || "development",
     "production": (process.env.NODE_ENV === "production"),
     "images": JSON.stringify(images.get()),
-    "download_url": ""
+    "download_url": "https://drive.google.com/open?id=1g44vB1fMT9e3iZ_DwQQjQhjtsRtlFuhD"
 }
