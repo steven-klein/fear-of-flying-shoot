@@ -425,6 +425,16 @@ footer {
 .gallery-thumb a {
   display: block;
   line-height: 0;
+  position: relative;
+  padding-bottom: 66.707317073%;
+}
+
+.gallery-thumb a img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: auto;
+  width: 100%;
 }
 
 @media only screen and (max-width: 599px) {
