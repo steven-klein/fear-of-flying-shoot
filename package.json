@@ -59,6 +59,6 @@
     "dependencies": {
         "@fancyapps/fancybox": "^3.3.5",
         "jquery": "^3.3.1",
-        "mithril": "^1.1.6"
+        "mithril": "^1.1.7"
     }
 }
